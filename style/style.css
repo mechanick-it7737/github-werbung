@@ -1,0 +1,71 @@
+.body {
+   
+}
+
+
+.centr {
+    background-color: #b5bbc4;
+    box-shadow: 10px 10px 40px 
+    rgba(115, 110, 110, 0.892);
+    width: 690px;
+    margin: 0 auto;
+    margin-top: 200px;
+    
+ }
+
+ .example2 {
+    padding-bottom: 60px;
+ }
+
+ .Name {
+    font-family: 'Fasthand', cursive;
+    font-size: 65px;
+    margin-left: 250px;
+    color: rgb(40, 40, 23);
+ }
+
+ .dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #2d9fc8;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(104, 102, 102, 0.841);
+    padding: 6px 8px;
+    z-index: 1;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-text {
+    color: rgb(27, 0, 116);
+    font-size: 25px;
+    
+}
+
+.item {
+    background-color: #cbd6e5c1;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 2.0;
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+
+.punkt-item {
+    color: rgb(242, 255, 0);
+}
+
+.text-item {
+    color: rgb(61, 58, 50) ;
+}
